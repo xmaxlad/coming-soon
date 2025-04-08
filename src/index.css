@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Hack;
+  src: url('./assets/Hack-v3.003-ttf/ttf/Hack-Regular.ttf')
+}
+
+@import "tailwindcss";
+
+@theme {
+  --font-hack: Hack, 'sans-serif'
+}
