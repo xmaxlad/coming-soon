@@ -33,10 +33,9 @@ function App() {
         </div>
       </div>
       <div className='flex flex-row gap-x-4'>
-        <a className='cursor-crosshair'>LinkedIn</a>
-        <a className='cursor-crosshair'>Twitter/X</a>
-        <a className='cursor-crosshair'>Email</a>
-        <a className='cursor-crosshair'>Previous Website</a>
+        <a className='cursor-crosshair' href='https://www.linkedin.com/company/sumlearn/'>LinkedIn</a>
+        <a className='cursor-crosshair' href='https://www.x.com/xmaxlad'>Twitter/X</a>
+        <a className='cursor-crosshair' href='mailto:kamal@sumlearn.com'>Email</a>
       </div>
     </div>
   )
